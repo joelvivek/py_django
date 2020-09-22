@@ -1,0 +1,18 @@
+Watching for file changes with StatReloader
+[14/Sep/2020 09:30:04] "GET /getmonitorport HTTP/1.1" 200 22
+[14/Sep/2020 09:30:06] "GET /runservice HTTP/1.1" 200 22
+[14/Sep/2020 09:45:04] "GET /getmonitorport HTTP/1.1" 200 22
+[14/Sep/2020 09:45:06] "GET /runservice HTTP/1.1" 200 22
+[14/Sep/2020 09:53:30] "GET /projectdata/AA HTTP/1.1" 301 0
+[14/Sep/2020 09:53:31] "GET /projectdata/AA/ HTTP/1.1" 200 2951
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 14, 2020 - 09:26:39
+Django version 2.2.4, using settings 'serverinfo.settings'
+Starting development server at http://0:8000/
+Quit the server with CONTROL-C.
+<class 'django.db.models.query.QuerySet'>
+10.144.21.222
+10.144.21.224
+10.162.6.58
